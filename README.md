@@ -12,3 +12,5 @@ Site Reliability Engineering or system design for scalability : https://github.c
 Spring boot configuration using Git: https://www.naturalprogrammer.com/blog/1683997/spring-cloud-config-maintain-configuration-branches
 
 A quick overview of data modeling. http://www.agiledata.org/essays/dataModeling101.html
+
+Is hibernate dead  ? :  https://blog.jooq.org/2014/04/11/java-8-friday-no-more-need-for-orms/
